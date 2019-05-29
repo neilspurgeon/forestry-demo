@@ -1,32 +1,34 @@
 ---
 title: Home
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
+banner_image: '/uploads/2018/02/17/bridge3.jpg'
 layout: landing-page
 heading: Blah Loblaw's Law Blog
 partners:
-- "/uploads/2017/11/13/nysed.png"
+  - '/uploads/2017/11/13/nysed.png'
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+  - description:
+      Performing collaborative research and providing services to support
+      the Health Sector.
+    heading: Health
+    icon: '/uploads/2017/11/13/health.png'
+  - description:
+      Performing collaborative research and providing services to support
+      the biotechnology sector.
+    heading: BioTech
+    icon: '/uploads/2017/11/13/biotech.png'
 sub_heading: A Long Law Blog
+a_new_field:
 textline: |
   Belkirk College of Engineering
 
   Ora et Labora
 hero_button:
   text: Learn more
-  href: "/about"
+  href: '/about'
 show_news: true
 show_staff: true
 menu:
   navigation:
     identifier: _index
     weight: 1
-
 ---
