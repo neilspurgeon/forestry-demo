@@ -78,5 +78,10 @@ fields:
   type: text
   hidden: true
   default: home
+- name: a_new_field
+  type: text
+  config:
+    required: false
+  label: A New Field
 pages:
 - index.md
