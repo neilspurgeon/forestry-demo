@@ -17,7 +17,7 @@ services:
     heading: BioTech
     icon: '/uploads/2017/11/13/biotech.png'
 sub_heading: A Long Law Blog
-a_new_field:
+a_new_field: 'asdasdasdasd'
 textline: |
   Belkirk College of Engineering
 
